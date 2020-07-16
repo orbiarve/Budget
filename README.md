@@ -112,3 +112,4 @@ Each transaction is assigned a category based on the description that is parses 
 Once set up this, this application offers a simple, unified view of your transaction history across all your payment methods. The only maintenance needed is if your credit card company decides to change the format of their purchase notification emails.  You'll have to update your regex, but this should be very infrequent.  
 
 Because the app uses a Google Sheets workbook as the frontend and backend, it is customizable and open for you to do your own spending analysis.
+# Budget
