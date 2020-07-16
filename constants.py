@@ -3,10 +3,12 @@ STORES = {
     "trader joes": "Groceries",
     "starbucks": "Eating Out",
     "spotify": "Disgressionary",
+    "walmart":"Groceries",
+    "aldi":"Groceries",
+    "publix":"Groceries",
+    "bombay":"Eating Out",
+    "flanigan's":"Eating Out",
+    "amazon":"Disgressionary"
 }
 
-VENMOS = {
-    "food": "Eating Out",
-    "tickets": "Disgressionary",
-    "internet": "Rent & Utilities",
-}
+
